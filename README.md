@@ -2,11 +2,11 @@
 ### 🇹🇷
 👋 Merhaba, ben Elifnur!  
 🎓 Şu anda İstanbul Üniversitesi'nde Bilgisayar Programcılığı okuyorum.  
-💻 Material UI ve Bootstrap gibi teknolojilerle deneyimli, frontend geliştirmeye tutkulu biriyim.  
-📚 Özellikle web geliştirme ve tasarım alanında sürekli öğreniyor ve kendimi geliştiriyorum.  
+💻 Material UI ve Bootstrap gibi teknolojilerle çalışan, frontend geliştirmeye tutkulu biriyim.  
+📚 Özellikle web geliştirme ve tasarım alanına ilgiliyim, sürekli öğreniyor ve kendimi geliştiriyorum.  
 🌟 Kullanıcı dostu ve estetik web siteleri ve uygulamalar oluşturmaktan heyecan duyuyorum.  
 
-### EN
+### 🇬🇧
 👋 Hi, I'm Elifnur!  
 🎓 Currently studying Computer Programming at Istanbul University.  
 💻 Passionate about frontend development, with experience in technologies like Material UI and Bootstrap.  
