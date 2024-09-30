@@ -5,7 +5,6 @@
 💻 Material UI ve Bootstrap gibi teknolojilerle deneyimli, frontend geliştirmeye tutkulu biriyim.  
 📚 Özellikle web geliştirme ve tasarım alanında sürekli öğreniyor ve kendimi geliştiriyorum.  
 🌟 Kullanıcı dostu ve estetik web siteleri ve uygulamalar oluşturmaktan heyecan duyuyorum.  
-🚀 Hadi, bağlantı kuralım ve iş birliği yapalım!
 
 ### EN
 👋 Hi, I'm Elifnur!  
@@ -13,8 +12,6 @@
 💻 Passionate about frontend development, with experience in technologies like Material UI and Bootstrap.  
 📚 Constantly learning and improving, especially in web development and design.  
 🌟 Excited about creating user-friendly, aesthetic websites and applications.  
-🚀 Let's connect and collaborate!
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/elifdemir29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arrivederciaoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elifnurdemir-elifnur-demir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@elifxnur118) 
