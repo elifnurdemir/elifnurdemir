@@ -7,7 +7,7 @@
 🌟 Kullanıcı dostu ve estetik web siteleri ve uygulamalar oluşturmaktan heyecan duyuyorum.  
 🚀 Hadi, bağlantı kuralım ve iş birliği yapalım!
 
-### 🇬🇧
+### EN
 👋 Hi, I'm Elifnur!  
 🎓 Currently studying Computer Programming at Istanbul University.  
 💻 Passionate about frontend development, with experience in technologies like Material UI and Bootstrap.  
