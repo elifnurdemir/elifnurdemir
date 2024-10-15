@@ -1,4 +1,7 @@
-## 💫 About Me:
+## 
+![Alt Text](https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif)
+
+💫 About Me:
 ### 🇹🇷
 👋 Merhaba, ben Elifnur!  
 🎓 Şu anda İstanbul Üniversitesi'nde Bilgisayar Programcılığı okuyorum.  
