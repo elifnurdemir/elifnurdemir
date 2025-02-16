@@ -1,7 +1,6 @@
 ## 
 ![Alt Text](https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif)
 
-# 💫 About Me:
 👋 Hi, I'm Elifnur!<br>🎓 Computer Programming student at Istanbul University.<br>💻 Passionate about frontend development, building smooth and beautiful experiences with Flutter & Dart.<br>📚 Always learning, growing, and exploring the world of mobile and web development.<br>✨ Love turning ideas into user-friendly, aesthetic apps and websites!
 
 
