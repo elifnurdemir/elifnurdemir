@@ -129,15 +129,15 @@ class ElifnurDemir {
 ✨ Welcome! Thank you for stopping by! ✨  
 With your visit, another flower has bloomed in my garden! 🌷💕
 
-<!-- Cute Counter -->
-<img src="https://count.getloli.com/get/@elifnurdemir?theme=rule34" alt="Visitor Counter" width="180">
+<!-- Sakura Blossom Counter --><!-- SVG Flower Counter (Özel Tasarım) -->
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=🌸%20Blooms%20🌸&width=800&height=200" alt="Counter">
+<img src="https://count.getloli.com/get/@elifnurdemir?theme=gelbooru" alt="counter" width="300">
 
 🌿 Every visit is a flower, every flower is a smile! 😊🌼  
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A8-Stay+Cute!-ffadc6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%B8-Thanks+for+visiting!-c2a2ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B8_Flowers_Blossomed-ffadc6?style=for-the-badge&logoColor=ff69b4&logo=spring">
+  <img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F_Stay_Sunshine!-c2a2ff?style=for-the-badge&logo=heart">
 </p>
-
