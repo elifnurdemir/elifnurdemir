@@ -52,7 +52,8 @@ class ElifnurDemir {
 
 </div>
 
----### 🎀 Daily Magic Ritual
+---
+##🎀 Daily Magic Ritual
 
 <div align="center">
 
