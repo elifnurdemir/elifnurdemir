@@ -1,16 +1,137 @@
-## 
-![Alt Text](https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif)
 
-👋 Hi, I'm Elifnur!<br>🎓 Computer Programming student at Istanbul University.<br>💻 Passionate about frontend development, building smooth and beautiful experiences with Flutter & Dart.<br>📚 Always learning, growing, and exploring the world of mobile and web development.<br>✨ Love turning ideas into user-friendly, aesthetic apps and websites!
+<div align="center">
+  
+<!-- Sakura Animated Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&color=FFB3E6&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%8C%B8%E2%9C%A8%F0%9F%92%AB+Hello%2C+I%27m+Elifnur%21;%F0%9F%93%9A+Computer+Programming+Student+%40+Istanbul+Uni;%F0%9F%8E%80+Pixel+Magic+in+UI%2FUX&repeat=true" alt="Sakura Header">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+
+</div>
+
+---
+
+## 🌸 About Me
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/elifnurdemir1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ifelselif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elifnurdemir-elifnur-demir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@elifxnur118) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arrivederciao) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arrivederciaoo) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elifnurdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=elifnurdemir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elifnurdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```dart
+class ElifnurDemir {
+    String education = "Associate Degree Student in Computer Programming";
+    String university = "Istanbul University";
+    List<String> specialty = [
+        "Flutter Development", 
+        "Pixel Perfect Enthusiast",
+        "Cross-platform Mobile Apps"
+    ];
+    String motto = 'Code is my paintbrush, the screen is my canvas 🖌️';
+}
+```
 
+---
+
+## 🌸 Tech Treasure Chest
+
+<div align="center">
+
+<!-- Interactive Skill Cards -->
+<a href="https://flutter.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=FFB3E6" alt="Flutter">
+</a>
+
+<a href="https://dart.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Dart-00B4D8?style=for-the-badge&logo=dart&logoColor=white&labelColor=89CFF0" alt="Dart">
+</a>
+
+<a href="https://figma.com" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-FF9FED?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFD1DC" alt="Figma">
+</a>
+
+<a href="https://firebase.google.com" target="_blank">
+  <img src="https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFFACD" alt="Firebase">
+</a>
+
+</div>
+
+---### 🎀 Daily Magic Ritual
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/d98eGMM9rZ3Y0ZvCqP/giphy.gif" width="120">
+      <br>
+      ☕ Brew Coffee
+    </td>
+    <td align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF2dXNvbHJ5ZGE3M2lqMGs5d3lqYTQzcXlnY2Y0YjJjcHM5M2dmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/povenlBAIz14s/giphy.gif" width="120">
+      <br>
+      🎨 Design Magic
+    </td>
+    <td align="center">
+           <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="120">
+      <br>
+      💻 Code Spells
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+           <img src="https://media0.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="90">
+      <br>
+      🧪 Testing
+    </td>
+    <td align="center">
+            <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="120" height='120'>
+      <br>
+      🎉 Share Magic
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/s8UHGqq9xqJmwZZtHn/giphy.gif" width="120">
+      <br>
+      🔁 Repeat
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+## 🎧 Coding Playlist
+
+<div align="center">
+
+<a href="https://www.youtube.com/playlist?list=PLa7YQEMur3p9jTfPJudeXSRYqsKF2TMEL">
+  <img src="https://img.shields.io/badge/-%F0%9F%8E%A7%20Listen%20While%20Coding-FF69B4?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Spellbook
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifnurdemir&show_icons=true&theme=radical&bg_color=FFB3E6,FF69B4,FFD700&title_color=fff&icon_color=fff&border_color=ffffff)](https://github.com/elifnurdemir)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifnurdemir&layout=compact&theme=radical&bg_color=FFD1DC,FFB3E6,89CFF0&title_color=ff69b4&border_color=ffffff)](https://github.com/elifnurdemir)
+
+</div>
+
+---
+
+## 🌸 Visitor's Book
+
+<div align="center">
+
+<!-- Dancing Hamster Counter -->
+<img src="https://count.getloli.com/get/@elifnurdemir?theme=rule34" alt="counter">
+  
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%96_Thank+You!-Pink+Hearts-pink?style=for-the-badge">
+</p>
