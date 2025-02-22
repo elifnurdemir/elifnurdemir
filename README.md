@@ -122,16 +122,22 @@ class ElifnurDemir {
 
 ---
 
-## 🌸 Visitor's Book
+## 🌸 Visitor's Book 🌸
 
 <div align="center">
 
-<!-- Dancing Hamster Counter -->
-<img src="https://count.getloli.com/get/@elifnurdemir?theme=rule34" alt="counter">
-  
+✨ Welcome! Thank you for stopping by! ✨  
+With your visit, another flower has bloomed in my garden! 🌷💕
+
+<!-- Cute Counter -->
+<img src="https://count.getloli.com/get/@elifnurdemir?theme=rule34" alt="Visitor Counter" width="180">
+
+🌿 Every visit is a flower, every flower is a smile! 😊🌼  
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%96_Thank+You!-Pink+Hearts-pink?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%E2%9C%A8-Stay+Cute!-ffadc6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B8-Thanks+for+visiting!-c2a2ff?style=for-the-badge">
 </p>
+
