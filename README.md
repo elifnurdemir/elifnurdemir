@@ -4,7 +4,7 @@
 <!-- Sakura Animated Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&color=FFB3E6&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%8C%B8%E2%9C%A8%F0%9F%92%AB+Hello%2C+I%27m+Elifnur%21;%F0%9F%93%9A+Computer+Programming+Student+%40+Istanbul+Uni;%F0%9F%8E%80+Pixel+Magic+in+UI%2FUX&repeat=true" alt="Sakura Header">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="300">
 
 </div>
 
