@@ -79,7 +79,7 @@ class ElifnurDemir {
     <td align="center">
            <img src="https://media0.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="90">
       <br>
-      🧪 Testing
+      🕵🏻‍♀️ Debugging
     </td>
     <td align="center">
             <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="120" height='120'>
