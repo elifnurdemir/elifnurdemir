@@ -127,7 +127,7 @@ class ElifnurDemir {
 
 <div align="center">
 
-✨ Thank you for stopping by! ✨  
+✨ Thank you! ✨  
 With your visit, another flower has bloomed in my garden! 🌷💕
 
 <!-- Sakura Blossom Counter --><!-- SVG Flower Counter (Özel Tasarım) -->
