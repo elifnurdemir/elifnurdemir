@@ -52,52 +52,7 @@ class ElifnurDemir {
 
 </div>
 
----
-## 🎀 Daily Magic Ritual
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/d98eGMM9rZ3Y0ZvCqP/giphy.gif" width="120">
-      <br>
-      ☕ Brew Coffee
-    </td>
-    <td align="center">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF2dXNvbHJ5ZGE3M2lqMGs5d3lqYTQzcXlnY2Y0YjJjcHM5M2dmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/povenlBAIz14s/giphy.gif" width="120">
-      <br>
-      🎨 Design Magic
-    </td>
-    <td align="center">
-           <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="120">
-      <br>
-      💻 Code Spells
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-           <img src="https://media0.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="90">
-      <br>
-      🕵🏻‍♀️ Debugging
-    </td>
-    <td align="center">
-            <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="120" height='120'>
-      <br>
-      🎉 Share Magic
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/s8UHGqq9xqJmwZZtHn/giphy.gif" width="120">
-      <br>
-      🔁 Repeat
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
----
 
 ## 🎧 Coding Playlist
 
@@ -109,36 +64,5 @@ class ElifnurDemir {
 
 </div>
 
----
 
-## 📈 GitHub Spellbook
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifnurdemir&show_icons=true&theme=radical&bg_color=FFB3E6,FF69B4,FFD700&title_color=fff&icon_color=fff&border_color=ffffff)](https://github.com/elifnurdemir)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifnurdemir&layout=compact&theme=radical&bg_color=FFD1DC,FFB3E6,89CFF0&title_color=ff69b4&border_color=ffffff)](https://github.com/elifnurdemir)
-
-</div>
-
----
-
-## 🌸 Visitor's Book 🌸
-
-<div align="center">
-
-✨ Thank you! ✨  
-With your visit, another flower has bloomed in my garden! 🌷💕
-
-<!-- Sakura Blossom Counter --><!-- SVG Flower Counter (Özel Tasarım) -->
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=🌸%20Blooms%20🌸&width=800&height=200" alt="Counter">
-<img src="https://count.getloli.com/get/@elifnurdemir?theme=gelbooru" alt="counter" width="300">
-
-🌿 Every visit is a flower, every flower is a smile! 😊🌼  
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%B8_Flowers_Blossomed-ffadc6?style=for-the-badge&logoColor=ff69b4&logo=spring">
-  <img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F_Stay_Sunshine!-c2a2ff?style=for-the-badge&logo=heart">
-</p>
