@@ -29,29 +29,6 @@ class ElifnurDemir {
 
 ---
 
-## 🌸 Tech Treasure Chest
-
-<div align="center">
-
-<!-- Interactive Skill Cards -->
-<a href="https://flutter.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=FFB3E6" alt="Flutter">
-</a>
-
-<a href="https://dart.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Dart-00B4D8?style=for-the-badge&logo=dart&logoColor=white&labelColor=89CFF0" alt="Dart">
-</a>
-
-<a href="https://figma.com" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-FF9FED?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFD1DC" alt="Figma">
-</a>
-
-<a href="https://firebase.google.com" target="_blank">
-  <img src="https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFFACD" alt="Firebase">
-</a>
-
-</div>
-
 
 
 ## 🎧 Coding Playlist
