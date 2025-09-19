@@ -23,7 +23,6 @@
 ![Testing-Library](https://img.shields.io/badge/Testing%20Library-3B3B3B?style=for-the-badge&logo=testing-library&logoColor=8A6D3B)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-3B3B3B?style=for-the-badge&logo=git&logoColor=8A6D3B)
 ![VS Code](https://img.shields.io/badge/VS_Code-3B3B3B?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
 ![JIRA](https://img.shields.io/badge/JIRA-3B3B3B?style=for-the-badge&logo=jira&logoColor=8A6D3B)
 ![Postman](https://img.shields.io/badge/Postman-3B3B3B?style=for-the-badge&logo=postman&logoColor=8A6D3B)
