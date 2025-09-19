@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=500&color=8A6D3B&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+QA+Tester;React+%7C+TypeScript+%7C+Testing;Modern+Solutions+with+Classic+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=500&color=5B4636&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+QA+Tester;React+%7C+TypeScript+%7C+Testing;Modern+Solutions+with+Classic+Principles" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
@@ -13,21 +12,21 @@
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/React-3B3B3B?style=for-the-badge&logo=react&logoColor=8A6D3B)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B3B3B?style=for-the-badge&logo=typescript&logoColor=8A6D3B)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B3B3B?style=for-the-badge&logo=javascript&logoColor=8A6D3B)
+![Material-UI](https://img.shields.io/badge/Material--UI-3B3B3B?style=for-the-badge&logo=mui&logoColor=8A6D3B)
 
 ### Testing & QA
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Cypress](https://img.shields.io/badge/Cypress-3B3B3B?style=for-the-badge&logo=cypress&logoColor=8A6D3B)
+![Selenium](https://img.shields.io/badge/Selenium-3B3B3B?style=for-the-badge&logo=selenium&logoColor=8A6D3B)
+![Testing-Library](https://img.shields.io/badge/Testing%20Library-3B3B3B?style=for-the-badge&logo=testing-library&logoColor=8A6D3B)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3B3B3B?style=for-the-badge&logo=git&logoColor=8A6D3B)
+![VS Code](https://img.shields.io/badge/VS_Code-3B3B3B?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
+![JIRA](https://img.shields.io/badge/JIRA-3B3B3B?style=for-the-badge&logo=jira&logoColor=8A6D3B)
+![Postman](https://img.shields.io/badge/Postman-3B3B3B?style=for-the-badge&logo=postman&logoColor=8A6D3B)
 
 ## 📈 My Skills
 
@@ -56,15 +55,13 @@
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifnurdemir-elifnur-demir/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](elifnurdemir@outlook.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B4636?style=for-the-badge&logo=linkedin&logoColor=F5F0E1)](https://www.linkedin.com/in/elifnurdemir-elifnur-demir/)
+[![Email](https://img.shields.io/badge/Email-5B4636?style=for-the-badge&logo=gmail&logoColor=F5F0E1)](elifnurdemir@outlook.com.tr)
 
 ---
 
 <div align="center">
-  
-  <i>“Quality is not an act, it is a habit.”</i> — Aristotle
-  
+  <i style="color:#5B4636">“Quality is not an act, it is a habit.”</i> — Aristotle
 </div>
 
 ![Footer](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
