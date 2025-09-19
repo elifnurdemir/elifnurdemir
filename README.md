@@ -66,3 +66,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <i>“Quality is not an act, it is a habit.”</i> — Aristotle
   
 </div>
+![Footer](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
