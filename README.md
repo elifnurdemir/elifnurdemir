@@ -1,6 +1,4 @@
 
-![Dark Academia](https://img.shields.io/badge/Theme-Modern%20Dark%20Academia-8a6d3b?style=for-the-badge&logo=academia&logoColor=white)
-![Quality](https://img.shields.io/badge/Craftsmanship-Excellence-8a6d3b?style=for-the-badge)
 ![Tester](https://img.shields.io/badge/Junior%20Tester-Passionate-8a6d3b?style=for-the-badge)
 
 <div align="center">
