@@ -1,6 +1,4 @@
 
-![Tester](https://img.shields.io/badge/Junior%20Tester-Passionate-8a6d3b?style=for-the-badge)
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=500&color=8A6D3B&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+QA+Tester;React+%7C+TypeScript+%7C+Testing;Modern+Solutions+with+Classic+Principles" alt="Typing SVG" />
 </div>
