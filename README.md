@@ -5,10 +5,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as **Junior QA Tester**
-- 🌱 Learning **Advanced Testing Automation & UI/UX Design**
-- 💼 Open to **Frontend Development & QA opportunities**
-- 🎯 Focused on **clean code, testing, and user experience**
+- Currently working as **Junior QA Tester**
+- Learning **Advanced Testing Automation & UI/UX Design**
+- Open to **Frontend Development & QA opportunities**
+- Focused on **clean code, testing, and user experience**
 
 ## 🛠️ Tech Stack
 
