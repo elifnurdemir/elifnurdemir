@@ -1,45 +1,72 @@
 
+![Dark Academia](https://img.shields.io/badge/Theme-Modern%20Dark%20Academia-8a6d3b?style=for-the-badge&logo=academia&logoColor=white)
+![Quality](https://img.shields.io/badge/Craftsmanship-Excellence-8a6d3b?style=for-the-badge)
+![Tester](https://img.shields.io/badge/Junior%20Tester-Passionate-8a6d3b?style=for-the-badge)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=500&color=8A6D3B&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+QA+Tester;React+%7C+TypeScript+%7C+Testing;Modern+Solutions+with+Classic+Principles" alt="Typing SVG" />
+</div>
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working as **Junior QA Tester**
+- 🌱 Learning **Advanced Testing Automation & UI/UX Design**
+- 💼 Open to **Frontend Development & QA opportunities**
+- 🎯 Focused on **clean code, testing, and user experience**
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### Testing & QA
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📈 My Skills
+
+**Frontend Development:**
+- React & TypeScript Development
+- Responsive Web Design
+- Component Library Creation
+
+**Testing & QA:**
+- Manual Testing Techniques
+- Test Case Design & Execution
+- Bug Reporting & Tracking
+
+**Tools & Methodologies:**
+- Agile/Scrum Development
+- Version Control (Git)
+- Cross-browser Testing
+
+## 🌱 Currently Learning
+- Advanced Cypress Testing Patterns
+- Performance Optimization Techniques
+- Accessibility Best Practices
+- UI/UX Design Principles
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifnurdemir-elifnur-demir/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](elifnurdemir@outlook.com.tr)
+
+---
+
 <div align="center">
   
-
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&color=FFB3E6&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%8C%B8%E2%9C%A8%F0%9F%92%AB+Hello%2C+I%27m+Elifnur%21;%F0%9F%93%9A+Computer+Programming+Student+%40+Istanbul+Uni;%F0%9F%8E%80+Pixel+Magic+in+UI%2FUX&repeat=true" alt="Sakura Header">
-
-<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="300">
-
+  <i>“Quality is not an act, it is a habit.”</i> — Aristotle
+  
 </div>
-
----
-
-## 🌸 About Me
-
-
-
-```dart
-class ElifnurDemir {
-    String education = "Associate Degree Student in Computer Programming";
-    String university = "Istanbul University";
-    List<String> specialty = [
-        "Flutter Development", 
-        "Pixel Perfect Enthusiast",
-        "Cross-platform Mobile Apps"
-    ];
-    String motto = 'Code is my paintbrush, the screen is my canvas 🖌️';
-}
-```
-
----
-
-
-
-## 🎧 Coding Playlist
-
-<div align="center">
-
-<a href="https://www.youtube.com/playlist?list=PLa7YQEMur3p9jTfPJudeXSRYqsKF2TMEL">
-  <img src="https://img.shields.io/badge/-%F0%9F%8E%A7%20Listen%20While%20Coding-FF69B4?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
-
-
-
