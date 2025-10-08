@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=500&color=5B4636&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+QA+Tester;React+%7C+TypeScript+%7C+Testing;Modern+Solutions+with+Classic+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=500&color=fffff&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+QA+Tester;React+%7C+TypeScript+%7C+Testing;Modern+Solutions+with+Classic+Principles" alt="Typing SVG" />
 </div>
 
 ## 👩🏼‍💻 About Me
